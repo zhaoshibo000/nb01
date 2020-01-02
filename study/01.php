@@ -1,4 +1,5 @@
 <?php
+echo 111;
 $dsn="mysql:host=localhost;dbname=text1;port=3306;charset=utf8";
 $user='root';
 $pass='root';
